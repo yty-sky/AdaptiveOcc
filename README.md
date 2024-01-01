@@ -9,7 +9,7 @@ AdaptiveOcc: Adaptive Octree-based Network for Multi-Camera 3D Semantic Occupanc
   </a>
 </p>
 <p align="center">
-    We propose a distance-adaptive octree construction rule to representation scenes using multi-resolution voxels.
+    We propose a distance-adaptive octree construction rule to representation scenes using multi-granularity voxels.
 </p>
 
 ## Multi-level hierarchical model
