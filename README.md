@@ -11,7 +11,6 @@ In this paper, we propose AdaptiveOcc, a novel octree-based multi-level architec
 ## Highlights
 
 ### Multi-granularity scene representation
-
 <p align="center">
   <a href="">
     <img src="./assets/vis.gif" alt="Relit" width="99%">
@@ -21,8 +20,8 @@ In this paper, we propose AdaptiveOcc, a novel octree-based multi-level architec
     We propose a distance-adaptive octree construction rule to representation scenes using multi-granularity voxels.
 </p>
 
-### Multi-level hierarchical model
 
+### Multi-level hierarchical model
 <p align="center">
   <a href="">
     <img src="./assets/pipeline.jpg" alt="Pipeline" width="99%">
@@ -32,8 +31,8 @@ In this paper, we propose AdaptiveOcc, a novel octree-based multi-level architec
    We propose a novel octree-based multi-level hierarchical model, which can adaptively represent different parts of the space with varying voxel granularity.
 </p>
 
-### Strong resolution scalability
 
+### Strong resolution scalability
 <p align="center">
   <a href="">
     <img src="./assets/scale.jpg" alt="main_res" width="99%">

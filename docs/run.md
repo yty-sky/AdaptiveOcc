@@ -20,12 +20,7 @@ Eval AdaptiveOcc with 1 RTX3090 GPUs
 python ./tools/test.py ./projects/configs/adaptiveocc/adaptiveocc_inference.py ./path/to/ckpts.pth --deterministic --eval bbox
 ```
 
-Visualize occupancy groundtruth:
-```
-python ./tools/visual.py $npy_path$
-```
-
-Visualize occupancy predictions, occupancy predictions and the multi-scale occupancy groundtruth:
+Visualize occupancy predictions, occupancy groundtruth and the multi-scale occupancy groundtruth:
 
 First, you need to generate prediction results. Here we use whole validation set as an example.
 ```
